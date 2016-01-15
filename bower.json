@@ -1,0 +1,25 @@
+{
+  "name": "web1",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "yasamins <yasamin.salami@yahoo.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6"
+  },
+  "devDependencies": {
+    "jquery": "~2.2.0"
+  }
+}
